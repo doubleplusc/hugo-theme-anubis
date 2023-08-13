@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: ""
+baseUrl: "https://doubleplusc.github.io/hugo-theme-anubis/"
 title: "Braised Pork Belly"
 theme: "anubis"
 paginate: 5
